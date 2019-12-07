@@ -1,0 +1,23 @@
+{
+  "engineName": "bloodbank",
+  "hostIdentifier": "host-nczwt6",
+  "endpointBase": "https://host-nczwt6.api.swiftype.com",
+  "searchKey": "search-ds96b8tjzw3shn4aakspnd21",
+  "resultFields": [
+    "state",
+    "city",
+    "district",
+    "hname",
+    "address",
+    "contact",
+    "rating",
+    "bloodgroups",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ]
+}
